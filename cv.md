@@ -42,3 +42,11 @@ class Program
         Console.WriteLine("Average: " + (double)sum / numbers.Count);
     }
 }
+
+## Courses & Training
+- Git and GitHub (Stepik)
+- Python Basics (Codecademy)
+
+## English Level
+- **Level:** B1 (Intermediate)
+- **Practice:** Reading technical documentation, watching CS lectures in English
