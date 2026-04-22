@@ -50,3 +50,11 @@ class Program
 ## English Level
 - **Level:** B1 (Intermediate)
 - **Practice:** Reading technical documentation, watching CS lectures in English
+
+
+## Skills
+
+- Git / GitHub
+- Markdown
+- Python (Basic)
+- HTML / CSS (Basic)
